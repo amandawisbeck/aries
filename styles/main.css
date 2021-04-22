@@ -242,7 +242,7 @@ article p {
 */
 
 /* homepage */
-#homepage img	{
+#homeimage img	{
 	display: block;
 	max-width: auto;
 	width: 50%;
@@ -250,6 +250,11 @@ article p {
 	border: 5px ridge gold;
 	border-radius: 25px;
 	box-shadow: 10px 10px 25px black;
+	float: center;
+}
+
+#homepage	{
+	background-color:white !important;
 }
 
 section	{
